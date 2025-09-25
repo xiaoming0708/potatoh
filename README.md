@@ -1,5 +1,6 @@
 # Hi there 👋
 ## I'm now a sophomore,learning data science and deep learning.I also hold a great interest in math and physics.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=potatoh)](https://github.com/anuraghazra/github-readme-stats)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <!--
