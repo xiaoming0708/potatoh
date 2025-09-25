@@ -1,7 +1,7 @@
-## Hi there 👋
-# I'm now a sophomore,learning data science and deep learning.I also hold a great interest in math and physics.
-![Static Badge](https://img.shields.io/badge/:Python)
-![Static Badge](https://img.shields.io/badge/:Neural-Network)
+# Hi there 👋
+## I'm now a sophomore,learning data science and deep learning.I also hold a great interest in math and physics.
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/:Neural%20Network)
 ![Static Badge](https://img.shields.io/badge/:C)
 
 <!--
