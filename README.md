@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I'm now a sophomore,learning data science and deep learning.I also hold a great interest in math and physics.
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![AI Badge](https://img.shields.io/badge/Topic-A.I.-blue)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <!--
 **xiaoming0708/xiaoming0708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
